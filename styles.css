@@ -1,0 +1,99 @@
+body {
+    background: linear-gradient(#c89f9c, #eee2df);    
+    color: #b36a5e;
+    margin: auto;
+    font-family: 'Raleway', sans-serif; 
+    max-width: 1500px;
+  }
+
+#name {
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-right: 12rem;
+    font-size: 2.5em;
+    font-weight: 700;
+    border-bottom: solid;
+}
+
+  #image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  border-radius: 50%;
+  }
+  
+  #img-caption {
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 0;
+    font-weight: 600;
+    max-width: 1086px;
+    margin: auto;
+  }
+
+
+#tribute-info {
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+  a {
+    color:#c97c5d;
+  }
+
+  a:hover {
+    opacity: 60%;
+  }
+  
+  section {
+    padding: 2rem;
+    text-align: center;
+    font-weight: 200;
+  }
+
+footer div {
+    text-align: center;
+    margin-top: 2rem;
+
+}
+
+#contact {
+    text-align: center;
+  }
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+.fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #c89f9c;
+    color: #eee2df;
+    border-radius: 2rem;
+  }
+  
+  
+  .fa-linkedin {
+    background: #c89f9c;
+    color: #eee2df;
+    border-radius: 2rem;
+  }
+  
+  
+  .fa-instagram {
+    background: #c89f9c;
+    color: #eee2df;
+    border-radius: 2rem;
+  }
