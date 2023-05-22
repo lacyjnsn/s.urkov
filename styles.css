@@ -27,17 +27,19 @@ body {
   
   #img-caption {
     text-align: center;
-    padding-top: 3rem;
+    padding-top: 2.5rem;
     padding-bottom: 0;
     font-weight: 600;
-    max-width: 1086px;
+    max-width: 1000px;
     margin: auto;
+    font-size: .8rem;
   }
 
 
 #tribute-info {
     margin-left: 5%;
     margin-right: 5%;
+    font-weight: 300;
 
 }
 
@@ -50,7 +52,7 @@ body {
   }
   
   section {
-    padding: 2rem;
+    padding: 1.5rem 2rem .5rem 2rem;
     text-align: center;
     font-weight: 200;
   }
